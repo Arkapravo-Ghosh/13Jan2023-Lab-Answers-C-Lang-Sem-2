@@ -24,4 +24,8 @@
   * [c) Exchange the last two digits](Lab1-Answers/lab1-15c.c)
   * [d) Exchange the last and the third last digits](Lab1-Answers/lab1-15d.c)
   * [e) Read one more integer k and print k<sup>th</sup> last digit from a number](Lab1-Answers/lab1-15e.c)
+  </details>
 </details>
+
+### Disclaimer
+I take zero liability for the damage caused to you by this low-effort code. Please use the code above at your discretion.
