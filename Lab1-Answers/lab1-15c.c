@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-// Exchange last two digits of a number without using % operator
-
 int main() {
     int a, b, c, d;
     printf("Enter a number: ");

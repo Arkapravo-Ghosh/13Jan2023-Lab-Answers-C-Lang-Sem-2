@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-// Delete last two digits
-
 int main() {
     int a, d;
     printf("Enter a number: ");

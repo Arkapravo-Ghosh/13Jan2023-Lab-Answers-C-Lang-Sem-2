@@ -1,5 +1,4 @@
 #include <stdio.h>
-// Find the sum of last two digits
 int main() {
     int a, d, l;
     printf("Enter a number: ");

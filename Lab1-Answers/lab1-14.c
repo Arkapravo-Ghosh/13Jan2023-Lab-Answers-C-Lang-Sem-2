@@ -1,5 +1,4 @@
 #include <stdio.h>
-// Find the product of two numbers after exchanging the last digits of both numbers
 int main() {
     int a, b, c, d;
     printf("Enter first number: ");

@@ -1,5 +1,4 @@
 #include <stdio.h>
-// Exchange last and third last digits of a number without using % operator
 int main() {
     int a, b, c, d, e;
     printf("Enter a number: ");

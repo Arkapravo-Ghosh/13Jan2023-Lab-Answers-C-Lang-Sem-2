@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-// Print 2nd last digit
-
 int main() {
     int a, d, l;
     printf("Enter a number: ");

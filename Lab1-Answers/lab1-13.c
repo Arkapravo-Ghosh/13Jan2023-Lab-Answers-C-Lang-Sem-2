@@ -1,5 +1,4 @@
 #include <stdio.h>
-// Find the product after deleting the last digit and after deleting 2nd last digit
 int main() {
     int a, b;
     printf("Enter a number: ");

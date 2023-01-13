@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-// Join a digit to a number
-
 int main() {
     int a, b, c;
     printf("Enter a number: ");

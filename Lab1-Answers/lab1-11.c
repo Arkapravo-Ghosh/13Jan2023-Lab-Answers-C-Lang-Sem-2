@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-// Exchange last two digits of a number 
-
 int main() {
     int a, b, c, d;
     printf("Enter a number: ");

@@ -1,5 +1,4 @@
 #include <stdio.h>
-// Find second last digit without using % operator
 int main() {
     int a, b;
     printf("Enter a number: ");

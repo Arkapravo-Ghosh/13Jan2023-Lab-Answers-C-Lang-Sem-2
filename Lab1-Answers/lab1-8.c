@@ -1,5 +1,4 @@
 #include <stdio.h>
-// Double the last digit
 int main() {
     int a, b;
     printf("Enter a number: ");
