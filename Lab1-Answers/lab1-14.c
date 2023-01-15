@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int a, b, c, d;
+    int a, b, c;
     printf("Enter first number: ");
     scanf("%d", &a);
     printf("Enter second number: ");
