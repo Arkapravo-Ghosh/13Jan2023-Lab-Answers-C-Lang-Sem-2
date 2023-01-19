@@ -7,6 +7,6 @@ int main() {
     c = a % 100 / 10;
     d = a % 10;
     e = a / 1000 * 1000 + d * 100 + c * 10 + b;
-    printf("The number with last two digits exchanged is %d.\n", e);
+    printf("The number with last and third digits exchanged is %d.\n", e);
     return 0;
 }
